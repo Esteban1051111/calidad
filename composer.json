@@ -1,0 +1,15 @@
+{
+    "name": "innovatechmzals/botplussfb",
+    "description": "Bot para gestion de constructoras",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "innovatechmzles.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
